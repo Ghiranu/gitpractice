@@ -12,5 +12,5 @@ let LearningPath = class {
   }
 };
 
-const first = new LearningPath("Ghiran Ionut-Sorin", "git", true);
+const first = new LearningPath("Ghiran Ionut-Sorin", "Basics of Javascript", false);
 console.log(first.currentLearningTopic());
