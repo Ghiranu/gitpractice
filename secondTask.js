@@ -9,5 +9,5 @@ let Robot = class {
   }
 };
 
-const optimusPrime = new Robot("Optimus Prime", "red and blue");
+const bumbleBee = new Robot("BumbleBee", "yellow");
 console.log(optimusPrime.sayHello());
